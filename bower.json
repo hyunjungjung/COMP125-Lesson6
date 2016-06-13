@@ -1,0 +1,22 @@
+{
+  "name": "comp125-lab3",
+  "homepage": "https://github.com/hyunjungjung/COMP125-Lab3.git",
+  "authors": [
+    "hyunjungjung <hjung3@my.centennialcollege.ca>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootsharp": "^3.3.6",
+    "font-abel": "^4.6.3"
+  }
+}
